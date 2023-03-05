@@ -1,0 +1,22 @@
+{
+  "name": "firebaselogin",
+  "version": "1.0.0",
+  "description": "Una aplication para probar mis conocimientos con firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesusjsjs/firebaseLogin.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Jesusjs Montejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesusjsjs/firebaseLogin/issues"
+  },
+  "homepage": "https://github.com/Jesusjsjs/firebaseLogin#readme"
+}
